@@ -19,7 +19,7 @@ export default {
     try {
 
       //密码
-      const passwd = "testPASSword"
+      const passwd = "1fJ#FoCheduxPK4i"
 
       // 从 header 读取密码并验证
       const pwd = request.headers.get("X-Password")
